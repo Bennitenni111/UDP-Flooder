@@ -1,3 +1,4 @@
+# just a simple script and its from 2018 
 import os
 import sys
 import time
@@ -10,9 +11,6 @@ bytes = random._urandom(1024)
 
 os.system("clear")
 print("Anonix.xyz")
-print(">>We are legions<<")
-print(">>We do not forgive!<<")
-print(">>We do not forget<<")
 print("|=================================|")
 ip = raw_input("Target's IP: ")
 port = input("Port: ")
